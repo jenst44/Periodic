@@ -1,0 +1,163 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #EEEEEE;
+	width: 1220px;
+}
+
+.topbar {
+	padding-left: 0px;
+	display: block;
+	height: 50px;
+}
+	
+	.toptext1 {
+		margin:20px 37px 20px 7px;
+		display: inline-block;
+	}
+
+	.toptext {
+		margin:20px 49.5px 20px 0;
+		display: inline-block;
+	}
+
+	.toplast {
+		margin: 20px 0px;
+		display: inline-block;
+	}
+
+.sidebar {
+	display: inline-block;
+	width: 80px;
+	height: 410px;
+}
+
+	.bartext {
+		margin-bottom:44px;
+		margin-top: 20px; 
+	}
+
+#top {
+	width: auto;
+	height:auto;
+	display: inline-block;
+	vertical-align: top;
+}
+
+p {
+	font-size: 12px;
+	text-align: center;
+}
+
+span {
+	color:#1913A2;
+	font-size:17px;
+	text-align: center;
+}
+
+.invisible {
+	vertical-align: top;
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	margin: 2px;
+	padding:2px;
+	}
+
+.topl {
+	vertical-align: top;
+	max-width: 120px;
+	height: auto;
+	display: inline-block;
+	padding:2px;
+
+}
+
+	.blue {
+		vertical-align: top;
+		display: inline-block;
+		width: 50px;
+		height: 50px;
+		background-color: #689BFF;
+		margin:2px;
+		padding:2px;
+	}
+
+.topm {
+	vertical-align: bottom;
+	max-width: 618px;
+	height: auto;
+	display: inline-block;
+	padding:2px;
+}
+
+
+	.red {
+		vertical-align: top;
+		display: inline-block;
+		width: 50px;
+		height: 50px;
+		background-color: #FD9A98;
+		margin:2px;
+		padding:2px;
+	}
+
+.topr {
+	vertical-align: top;
+	max-width: 370px;
+	height: auto;
+	display: inline-block;
+	padding:2px;
+}
+
+	.yellow {
+		vertical-align: top;
+		display: inline-block;
+		width: 50px;
+		height: 50px;
+		background-color: #FECB00;
+		margin:2px;
+		padding:2px;
+	}
+
+.bottom {
+	vertical-align: top;
+	max-width: 865px;
+	height: auto;
+	margin-top: 20px;
+	display: inline-block;
+	padding:2px;
+}
+	
+	.green {
+		vertical-align: top;
+		display: inline-block;
+		width: 50px;
+		height: 50px;
+		background-color: #1FCA21;
+		margin:2px;
+		padding:2px;
+	}
+
+#bottombar {
+	width: auto;
+	height: auto;
+	display: inline-block;
+	vertical-align: top;
+	}
+
+
+#br {
+	vertical-align: top;
+	display: inline-block;
+	width: 124px;
+	height: 140px;
+	margin-left: 84px;
+}
+
+#br p {
+	margin-top: 42px;
+}
